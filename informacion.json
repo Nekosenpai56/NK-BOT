@@ -1,17 +1,13 @@
 {
 	"Prefijo": ".",
-	"NombreDelBot": "NK|BOT",
+	"NombreDelBot": "Nekosenpai|BOT",
 	"ControladorDelBot": [
-		"51995386439@s.whatsapp.net",
-		"52999999999@s.whatsapp.net",
-		"53999999999@s.whatsapp.net",
-		"55999999999@s.whatsapp.net",
-		"54999999999@s.whatsapp.net"
+		"51995718245@s.whatsapp.net"
 	],
 	"CoCreador": "Matt_Mdz",
-	"NumeroDelBot": "51995386439",
+	"NumeroDelBot": "51995718245",
 	"MyPais": "51",
-	"MiembrosMinimoEnUnGrupo": "2",
+	"MiembrosMinimoEnUnGrupo": "60",
 	"LimiteParaUsarComandos": "30",
 	"TusRedesSociales": "Canal de Youtube\nhttps://youtube.com/channel/UC_Pp8pT9vbT15k5_-i6oseA\nPágina de Facebook\nhttps://fb.watch/b7pj-i5ejP/\nTiktok\nhttps://vm.tiktok.com/ZMLjAbySN/\n\nMuchisimas gracias por tu apoyo mi king :3",
 	"CtrlG": ""
